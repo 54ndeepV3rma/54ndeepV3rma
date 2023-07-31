@@ -1,5 +1,5 @@
 ## Hey Geeks
-It's Sandeep Verma Here, CEO & CO-FOUNDER Of EncodersPro. 4 Years of Experience as a WebDeveloper and Security Researcher.
+It's Sandeep Verma Here, CEO & CO-FOUNDER Of ENCODERSPRO. 4 Years of Experience as a Web Developer and Security Researcher.
 
 ### About 🙋🏻‍♂️
 ```python
