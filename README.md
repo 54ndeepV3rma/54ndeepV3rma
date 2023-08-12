@@ -63,6 +63,7 @@ Experience=" 4 Years "
 
 
 ### Stats ⚡️
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=54ndeepV3rma&)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=54ndeepV3rma&show_icons=true&locale=en)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=54ndeepV3rma&layout=compact&theme=tokyday" alt="languages" height="190">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=54ndeepV3rma&" alt="streaks" height="190">
+<img src="https://github-readme-stats.vercel.app/api?username=54ndeepV3rma&show_icons=true&locale=en" alt="github_stats" height="201">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=54ndeepV3rma&layout=compact&theme=tokyday" alt="languages" height="185">
